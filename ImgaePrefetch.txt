@@ -1,0 +1,21 @@
+<body class="np-body">
+<div class="np-image-prefetch">
+		<img src"img/search.png" />
+		<img src"img/cross.png" />
+		<img src"img/logo.png" />
+		<img src"img/menu.png" />
+		<img src"img/slider/s1.jpg" />
+		<img src"img/slider/s2.jpg" />
+		<img src"img/slider/s3.jpg" />
+		<img src"img/slider/s4.jpg" />
+		<img src"img/services/1.png" />
+		<img src"img/services/2.png" />
+		<img src"img/services/3.png" />
+			</div> 
+
+
+</body>
+CSS
+.np-image-prefetch{
+	display: none !important;
+} 
